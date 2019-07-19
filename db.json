@@ -1,11 +1,149 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "results": {
+        "companyOwnedZones": [
+            "",
+            "Zone2",
+            "Zone1",
+            "Demo Rm"
+        ],
+        "scans": {
+            "reunited": [
+                {
+                    "parent": {
+                        "Asset_Name": "Ivan Chew",
+                        "AttributeValue": "male_Face.png",
+                        "Asset_Tracking_ID": "E20000163516015517106F51",
+                        "USERFLD1": "AssetTracking/public/uploadimg/mcx",
+                        "checkIn": "2019-05-17 14:46:19",
+                        "checkOut": "2019-05-17 15:25:15",
+                        "Detected_DateTime": "2019-05-17 15:25:15",
+                        "Detected_Zone": "Demo Rm",
+                        "stayDurationByDay": "38MIN 56S "
+                    },
+                    "child": [
+                        {
+                            "AT_Pkey": "118158",
+                            "ASSETID_FKey": "E20000163516025819905199",
+                            "Asset_Detector_FKey": "MXRBPi0001",
+                            "Detector_Zone": "Demo Rm",
+                            "ATTRIBID_FKey": "12",
+                            "Asset_Name": "Ivan Chew Bag",
+                            "Detected_DateTime": "2019-05-17 15:25:15",
+                            "Asset_Parent": "E20000163516015517106F51",
+                            "Asset_Child": null,
+                            "Asset_Tracking_ID": "E20000163516025819905199",
+                            "Asset_Desc": "Hedgren Connect",
+                            "Asset_Owner": null,
+                            "Detector_Desc": "PeAID 01",
+                            "stayDurationByDay": "38MIN 56S ",
+                            "latestDetect": "2019-05-17 15:25:15",
+                            "earliestDetect": "2019-05-17 14:46:19"
+                        }
+                    ]
+                },
+                {
+                    "parent": {
+                        "Asset_Name": "Ivan Chew",
+                        "AttributeValue": "male_Face.png",
+                        "Asset_Tracking_ID": "E20000163516015517106F51",
+                        "USERFLD1": "AssetTracking/public/uploadimg/mcx",
+                        "checkIn": "2019-03-02 17:38:54",
+                        "checkOut": "2019-03-02 17:39:00",
+                        "Detected_DateTime": "2019-03-02 17:39:00",
+                        "Detected_Zone": "Demo Rm",
+                        "stayDurationByDay": "6S "
+                    },
+                    "child": [
+                        {
+                            "AT_Pkey": "118051",
+                            "ASSETID_FKey": "E20000163516025819905199",
+                            "Asset_Detector_FKey": "MXRBPi0001",
+                            "Detector_Zone": "Demo Rm",
+                            "ATTRIBID_FKey": "12",
+                            "Asset_Name": "Ivan Chew Bag",
+                            "Detected_DateTime": "2019-03-02 17:39:00",
+                            "Asset_Parent": "E20000163516015517106F51",
+                            "Asset_Child": null,
+                            "Asset_Tracking_ID": "E20000163516025819905199",
+                            "Asset_Desc": "Hedgren Connect",
+                            "Asset_Owner": null,
+                            "Detector_Desc": "PeAID 01",
+                            "stayDurationByDay": "6S ",
+                            "latestDetect": "2019-03-02 17:39:00",
+                            "earliestDetect": "2019-03-02 17:38:54"
+                        }
+                    ]
+                },
+                {
+                    "parent": {
+                        "Asset_Name": "Ivan Chew",
+                        "AttributeValue": "male_Face.png",
+                        "Asset_Tracking_ID": "E20000163516015517106F51",
+                        "USERFLD1": "AssetTracking/public/uploadimg/mcx",
+                        "checkIn": "2019-03-01 08:16:19",
+                        "checkOut": null,
+                        "Detected_DateTime": "2019-03-01 08:16:19",
+                        "Detected_Zone": "Demo Rm",
+                        "stayDurationByDay": ""
+                    },
+                    "child": [
+                        {
+                            "AT_Pkey": "118049",
+                            "ASSETID_FKey": "E20000163516025819905199",
+                            "Asset_Detector_FKey": "MXRBPi0001",
+                            "Detector_Zone": "Demo Rm",
+                            "ATTRIBID_FKey": "12",
+                            "Asset_Name": "Ivan Chew Bag",
+                            "Detected_DateTime": "2019-03-01 08:16:19",
+                            "Asset_Parent": "E20000163516015517106F51",
+                            "Asset_Child": null,
+                            "Asset_Tracking_ID": "E20000163516025819905199",
+                            "Asset_Desc": "Hedgren Connect",
+                            "Asset_Owner": null,
+                            "Detector_Desc": "PeAID 01",
+                            "stayDurationByDay": "",
+                            "latestDetect": null,
+                            "earliestDetect": "2019-03-01 08:16:19"
+                        }
+                    ]
+                },
+                {
+                    "parent": {
+                        "Asset_Name": "Ivan Chew",
+                        "AttributeValue": "male_Face.png",
+                        "Asset_Tracking_ID": "E20000163516015517106F51",
+                        "USERFLD1": "AssetTracking/public/uploadimg/mcx",
+                        "checkIn": "2019-02-22 10:41:25",
+                        "checkOut": null,
+                        "Detected_DateTime": "2019-02-22 10:41:25",
+                        "Detected_Zone": "Demo Rm",
+                        "stayDurationByDay": ""
+                    },
+                    "child": [
+                        {
+                            "AT_Pkey": "118047",
+                            "ASSETID_FKey": "E20000163516025819905199",
+                            "Asset_Detector_FKey": "MXRBPi0001",
+                            "Detector_Zone": "Demo Rm",
+                            "ATTRIBID_FKey": "12",
+                            "Asset_Name": "Ivan Chew Bag",
+                            "Detected_DateTime": "2019-02-22 10:41:25",
+                            "Asset_Parent": "E20000163516015517106F51",
+                            "Asset_Child": null,
+                            "Asset_Tracking_ID": "E20000163516025819905199",
+                            "Asset_Desc": "Hedgren Connect",
+                            "Asset_Owner": null,
+                            "Detector_Desc": "PeAID 01",
+                            "stayDurationByDay": "",
+                            "latestDetect": null,
+                            "earliestDetect": "2019-02-22 10:41:25"
+                        }
+                    ]
+                }
+                
+            ],
+            "standalone": []
+        }
+    },
+    "success": true
+}
